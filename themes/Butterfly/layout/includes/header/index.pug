@@ -27,14 +27,14 @@ if theme.douban
 #nav(class=isHomeClass style=bg_img)
   !=partial('includes/header/header', {}, {cache:theme.fragment_cache})
   if is_home()
-    #site-info
+    #site-info(style='display:none')
       h1#site_title=site_title
       #site_subtitle
         span#subtitle
       if(theme.social)
         #site_social_icons
           !=partial('includes/header/social', {}, {cache:theme.fragment_cache})
-    #scroll_down
+    #scroll_down(style='display:none')
       i.fa.fa-angle-down.scroll-down-effects
   else if is_post()
     include ./post-info.pug 
