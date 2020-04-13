@@ -31,10 +31,13 @@ cnpm 使用说明: [http://npm.taobao.org/](http://npm.taobao.org/)
 
 ##### 以electron为例
 electron会download一个electron-download的npm包，然后执行`node install.js`(图1)，从github release page下载electron zip包（图2）
-![](https://user-gold-cdn.xitu.io/2019/10/16/16dd3db3dfb8fe44?w=251&h=441&f=png&s=14852)
+
+<p align="center">
+  <img src="https://i.loli.net/2020/04/13/gz5F1kOUuy2jeRf.png" alt="png"/>
+</p>
 <center>图1</center>
 
-![](https://user-gold-cdn.xitu.io/2019/10/16/16dd3db65df8223c?w=763&h=189&f=png&s=10852)
+![16dd3db65df8223c.png](https://i.loli.net/2020/04/13/mAFSUCvWbs51rlz.png)
 <center>图2</center>
 
 解决方法：
