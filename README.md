@@ -6,4 +6,9 @@
 
 
 ### 博客地址
-<a href="https://b.xiguayun.cn">https://b.xiguayun.cn</a>
+<a href="https://b.xiguayun.cn" target="_blank">https://b.xiguayun.cn</a>
+
+
+### 图床
+
+感谢[https://sm.ms/](https://sm.ms/)提供的图床
