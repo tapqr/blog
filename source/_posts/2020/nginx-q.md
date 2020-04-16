@@ -2,6 +2,8 @@
 title: nginx问题汇总
 date: 2020-04-13 22:50:21
 tags: nginx
+cover: https://i.loli.net/2020/04/16/FOngofTxUR7JuLK.png
+top_img: https://i.loli.net/2020/04/16/TBrwycbERNgZoW4.png
 ---
 ## 记录开发过程中遇到的nginx配置问题
 ### net err_http2_protocol_error

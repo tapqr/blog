@@ -2,6 +2,8 @@
 title: 修改npm镜像
 date: 2020-04-10 10:07:33
 tags: npm
+cover: https://i.loli.net/2020/04/16/cYloKC96hUVBjyd.png
+top_img: https://i.loli.net/2020/04/16/cYloKC96hUVBjyd.png
 ---
 
 ### 修改npm源
