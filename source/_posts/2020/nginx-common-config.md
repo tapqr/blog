@@ -2,6 +2,8 @@
 title: nginx常用配置
 date: 2020-04-16 11:23:22
 tags: nginx
+cover: https://i.loli.net/2020/04/16/FOngofTxUR7JuLK.png
+top_img: https://i.loli.net/2020/04/16/TBrwycbERNgZoW4.png
 ---
 
 ## nginx常用配置汇总
