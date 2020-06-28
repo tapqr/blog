@@ -11,9 +11,9 @@ menu:
   Categories: /categories/ || fa fa-folder-open
   Link: /link/ || fa fa-link
   About: /about/ || fa fa-heart
-  List||fa fa-list:
-    - Music || /music/ || fa fa-music
-    - Movie || /movies/ || fa fa-film
+  # List||fa fa-list:
+  #  - Music || /music/ || fa fa-music
+  #  - Movie || /movies/ || fa fa-film
 
 # Favicon
 # ---------------

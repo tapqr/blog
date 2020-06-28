@@ -1,0 +1,13 @@
+class:
+  class_name: 友情链接
+  link_list:
+    1:
+      name: github
+      link: https://github.com/compasss
+      avatar: /img/github/github-octocat.jpg
+      descr: github home page
+    2:
+      name: 阮一峰的网络日志
+      link: http://www.ruanyifeng.com/blog/
+      avatar: /img/website.png
+      descr: 阮一峰的网络日志
