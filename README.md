@@ -6,7 +6,7 @@
 
 
 ### 博客地址
-<a href="https://b.xiguayun.cn" target="_blank">https://b.xiguayun.cn</a>
+<a href="https://blog.xiguayun.cn" target="_blank">https://blog.xiguayun.cn</a>
 
 
 ### 图床
