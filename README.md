@@ -8,7 +8,3 @@
 ### 博客地址
 <a href="https://blog.xiguayun.cn" target="_blank">https://blog.xiguayun.cn</a>
 
-
-### 图床
-
-感谢[https://sm.ms/](https://sm.ms/)提供的图床
