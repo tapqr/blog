@@ -35,11 +35,11 @@ cnpm 使用说明: [http://npm.taobao.org/](http://npm.taobao.org/)
 electron会download一个electron-download的npm包，然后执行`node install.js`(图1)，从github release page下载electron zip包（图2）
 
 <p align="center">
-  <img src="https://i.loli.net/2020/04/13/gz5F1kOUuy2jeRf.png" alt="png"/>
+  <img src="http://q.265265.xyz/imgs/blog/gz5F1kOUuy2jeRf.png" alt="png"/>
 </p>
 <center>图1</center>
 
-![16dd3db65df8223c.png](https://i.loli.net/2020/04/13/mAFSUCvWbs51rlz.png)
+![16dd3db65df8223c.png](http://q.265265.xyz/imgs/blog/mAFSUCvWbs51rlz.png)
 <center>图2</center>
 
 解决方法：
