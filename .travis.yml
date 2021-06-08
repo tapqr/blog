@@ -2,7 +2,8 @@ sudo: false
 language: node_js
 node_js:
   - 12.22.1 # use nodejs v10 LTS
-cache: npm
+cache:
+  npm: false
 branches:
   only:
     - main # build main branch only
@@ -10,9 +11,9 @@ script:
   - hexo generate # generate static files
 deploy:
   provider: pages
-  skip-cleanup: false
+  skip-cleanup: true
   github-token: $GH_TOKEN
-  keep-history: false
+  keep-history: true
   on:
     branch: main
   local-dir: public
