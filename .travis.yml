@@ -4,6 +4,7 @@ node_js:
   - 12.22.1 # use nodejs v10 LTS
 cache:
   npm: false
+  yarn: false
 branches:
   only:
     - main # build main branch only
