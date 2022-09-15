@@ -3,7 +3,8 @@ title: js-code-fragment
 date: 2022-09-15 15:08:31
 cover: http://q.265265.xyz/imgs%2Fblog%2F1_4iXLdAjcfF7jn4QT_wjbhQ_a.png
 top_img: http://q.265265.xyz/imgs%2Fblog%2F1_4iXLdAjcfF7jn4QT_wjbhQ.png
-tags: js
+tags: 
+ - js
 ---
 
 + 禁止浏览器缩放
