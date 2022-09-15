@@ -1,6 +1,8 @@
 ---
 title: 打印样式
 date: 2021-05-08 11:18:51
+cover: http://q.265265.xyz/imgs%2Fblog%2F2_MVaraOOVG-gVUkirc9g2tA.png
+top_img: http://q.265265.xyz/imgs%2Fblog%2F1_MVaraOOVG-gVUkirc9g2tA.png
 tags:
  - css
 ---
