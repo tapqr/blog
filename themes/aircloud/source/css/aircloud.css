@@ -724,9 +724,9 @@ body {
   letter-spacing: 1px;
   word-break: break-all;
 }
-.post-content p:hover {
+/* .post-content p:hover {
   background-color: rgba(51, 112, 255, 0.1);
-}
+} */
 .post-content p img {
   width: 80%;
 }
@@ -745,10 +745,10 @@ body {
   letter-spacing: 1px;
   word-break: break-all;
 }
-.post-content ul li:hover,
+/* .post-content ul li:hover,
 .post-content ol li:hover {
   background-color: rgba(51, 112, 255, 0.1);
-}
+} */
 .post-content ul li {
   list-style: none;
 }
